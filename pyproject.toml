@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "enmech"
-version = "0.1.0"
+version = "0.1.1"
 description = "An mechanic that manages images and instances of Google Compute Engine."
 authors = ["Yasunori Horikoshi <hotoku@users.noreply.github.com>"]
 license = "MIT"
